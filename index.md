@@ -20,7 +20,7 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
 ## Talks
 
-- [🇫🇷] Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ? [snowcamp.io 2023] [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
+- [🇫🇷] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ? [snowcamp.io 2023]** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
 
 ## Projects
 
