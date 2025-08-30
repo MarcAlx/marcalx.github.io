@@ -41,3 +41,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 - [play.date] [planitis](https://marc-alx.itch.io/planitis)
 
 - [play.date] [Macrodata Refinement terminal](https://marc-alx.itch.io/macrodata-refinement-terminal-playdate)
+
+## Misc
+
+- _[My gists](https://gist.github.com/MarcAlx)_
