@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transfer Pokémons from GBA to last gen
-tags: retro gaming pokémon transfer
+tags: retro gaming pokémon transfer switch
 author: Marc_Alx
 ---
 

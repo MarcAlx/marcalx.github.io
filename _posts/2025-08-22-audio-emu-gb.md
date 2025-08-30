@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Audio emulation 101 - Game Boy example
-tags: emulation audio game-boy sound
+tags: emulation audio game-boy sound gb
 author: Marc_Alx
 ---
 

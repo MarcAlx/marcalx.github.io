@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Making music with via MIDI with Analogue Pocket + mGB
-tags: retro gaming audio chiptune mgb
+tags: retro gaming audio chiptune mgb analogue
 author: Marc_Alx
 ---
 
