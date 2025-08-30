@@ -1,2 +1,2 @@
-# marc_alx.github.io
+# marcalx.github.io
 MarcAlx's personal page
