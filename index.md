@@ -24,15 +24,15 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
 ## Projects
 
-- [smart-filter](https://github.com/MarcAlx/smart-filter) _Swift package that provides emulation back-end to make your own Game Boy emulator._
+- [smart-filter](https://github.com/MarcAlx/smart-filter) _A module that allows smart filtering over js array using SQL-Like where clause._
 
-- [Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator) _Simple app to ease custom location sending to Xcode Simulator._
+- [Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator) _Simple app to ease custom location sending to xcode Simulator._
 
 - [swift-event](https://github.com/MarcAlx/swift-event) _Classes to ease observer pattern implementation in Swift inspired by C# events_
 
 - [GBKit](https://github.com/MarcAlx/GBKit) _Swift package that provides emulation back-end to make your own Game Boy emulator._
 
-- [GB](https://github.com/MarcAlx/gb) _A Swift/SwiftUI GB emulator_
+- [GB](https://github.com/MarcAlx/gb) _A Swift/SwiftUI Game Boy emulator_
 
 ## Published games
 
