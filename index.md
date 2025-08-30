@@ -1,4 +1,4 @@
-Hi I'm Marc_Alx — a software engineer (C#, JS, Swift) passionate about retro tech, music and open source. Here you'll find my projects, tutorial and conference talks.
+Hi I'm Marc_Alx — a software engineer (mobile/desktop/web/games: C#, JS, Swift) passionate about retro tech, music and open source. Here you'll find my projects, tutorial and conference talks.
 
 ### Who am I?
 
@@ -51,7 +51,9 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 ### Developer conferences
 
-- [🇫🇷][snowcamp.io 2023][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] — [[ref. 2]()]😭
+#### SnowCamp 2023
+
+- [🇫🇷][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] — [[ref. 2]()]
 
 ### GIS conferences
 
@@ -78,11 +80,11 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 #### Salon SIG esri 2022
 
-- [🇫🇷][30 min] Balades sur mesure et promotion du patrimoine naturel et culturel. (Re)découvrez « Bougeott », l'application de la Région Île-de-France qui vous donne des fourmis dans les jambes — [[ref. 1](./references/SIG%20esri%202022.png)]
+- [🇫🇷][30 min][online] Balades sur mesure et promotion du patrimoine naturel et culturel. (Re)découvrez « Bougeott », l'application de la Région Île-de-France qui vous donne des fourmis dans les jambes — [[ref. 1](./references/SIG%20esri%202022.png)]
 
 #### Salon SIG esri 2020
 
-- [🇫🇷][30 min] Une application de data-visualisation de l’accidentologie sur les routes de France
+- [🇫🇷][30 min][online] Une application de data-visualisation de l’accidentologie sur les routes de France
 
 #### Salon SIG esri 2017
 
@@ -94,3 +96,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 - _[StackOverflow account](https://stackoverflow.com/users/5102373/marc-alx)_
 
 - _[My gists](https://gist.github.com/MarcAlx)_
+
+#### GDPR / cookies
+
+_This website does not use cookies or any kind of tracking._
