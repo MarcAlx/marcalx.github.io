@@ -1,4 +1,12 @@
-Welcome to my personal page, here you can find all my projects, enjoy!
+Hi I'm Marc_Alx — a software engineer (C#, JS, Swift) passionate about retro tech, music and open source. Here you'll find my projects, tutorial and conference talks.
+
+### Who am I?
+
+_Curious, creative, and versatile, my role as a Software Development Engineer in a small company doesn't help: in the morning I’m a tech lead, in the afternoon a developer, and the next day a project manager…_
+
+_What drives me every day: understanding the world and how it works, solving problems, and sharing knowledge!_
+
+_Be sure to check my [github profile](https://github.com/MarcAlx)._
 
 ## Articles
 
@@ -18,13 +26,10 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
 - **Installation of the 8BitDo Mod Kit for Original N64 Controller** / Installation du Mod Kit 8BitDo pour manette N64 [[🇫🇷](https://fr.ifixit.com/Tutoriel/Installation+du+Mod+Kit+8BitDo+pour+manette+N64/183460)] [[🇺🇸](https://www.ifixit.com/Guide/Installation+of+the+8BitDo+Mod+Kit+for+Original+N64+Controller/183460)] [[pdf 🇫🇷](./contents/guide_183460_fr.pdf)] [[pdf 🇺🇸](./contents/guide_183460_en.pdf)]
 
-## Talks
-
-- [🇫🇷] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ? [snowcamp.io 2023]** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
 
 ## Projects
 
-- [smart-filter](https://github.com/MarcAlx/smart-filter) _A module that allows smart filtering over js array using SQL-Like where clause._
+- [smart-filter](https://github.com/MarcAlx/smart-filter) _A js module that allows smart filtering over js array using SQL-Like where clause._
 
 - [Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator) _Simple app to ease custom location sending to xcode Simulator._
 
@@ -42,6 +47,50 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 - [play.date] [Macrodata Refinement terminal](https://marc-alx.itch.io/macrodata-refinement-terminal-playdate)
 
+## Talks
+
+### Developer conferences
+
+- [🇫🇷][snowcamp.io 2023][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] — [[ref. 2]()]😭
+
+### GIS conferences
+
+#### GEODATA DAYS 2025 (upcoming)
+
+- [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref. 1](./references/gdd25.pdf)]
+
+#### Salon SIG esri 2025 (upcoming)
+
+- [🇫🇷][25 min] Simplifier la gestion du Patrimoine arboré avec ArcGIS
+
+- two more talks coming!
+
+#### Salon SIG esri 2024
+
+- [🇫🇷][25 min] Étendre les usages de vos applications avec des widgets personnalisés ArcGIS Experience Builder — [[ref. 1](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] GeoCheval, l'application mobile de randonnée équestre de la Fédération Française d'Équitation — [[ref. 1](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] Extraire et transmettre des données SIG exploitables à l'aide des outils DAO (AutoCAD) grâce à une application ArcGIS Experience Builder. —[[ref. 1](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] Widget ArcGIS Experience Builder d'affichage et téléchargement de documents stockés dans la GED Alfresco pour EGIS — [[ref. 1](./references/SIG%20esri%202024.png)]
+
+#### Salon SIG esri 2023
+
+- [🇫🇷][30 min] Découvrez comment la Métropole du Grand Nancy gère son patrimoine arboré à l'aide de l'éco-système Smartrees — [[ref. 1](./references/SIG%20esri%202023.png)]
+
+#### Salon SIG esri 2022
+
+- [🇫🇷][30 min] Balades sur mesure et promotion du patrimoine naturel et culturel. (Re)découvrez « Bougeott », l'application de la Région Île-de-France qui vous donne des fourmis dans les jambes — [[ref. 1](./references/SIG%20esri%202022.png)]
+
+#### Salon SIG esri 2020
+
+- [🇫🇷][30 min] Une application de data-visualisation de l’accidentologie sur les routes de France
+
+#### Salon SIG esri 2017
+
+- [🇫🇷][30 min] Le géo-décisionnel au service des métiers à la CA. Toulon Provence Méditerranée — [[ref. 1](./references/SIG%20esri%202017.jpg)]
+- [🇫🇷][30 min] Favorisez la visibilité de vos points d'intérêt auprès de la population avec Cities! — [[ref. 1](./references/SIG%20esri%202017.jpg)]
+
 ## Misc
+
+- _[StackOverflow account](https://stackoverflow.com/users/5102373/marc-alx)_
 
 - _[My gists](https://gist.github.com/MarcAlx)_
