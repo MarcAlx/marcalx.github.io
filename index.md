@@ -78,7 +78,8 @@ _talks about my professional projects and acheivements, mostly related to develo
 
 #### Salon SIG esri 2023
 
-- [🇫🇷][30 min] Découvrez comment la Métropole du Grand Nancy gère son patrimoine arboré à l'aide de l'éco-système Smartrees — [[ref.](./references/SIG%20esri%202023.png)]
+- [🇫🇷][30 min] Découvrez comment la Métropole du Grand Nancy gère son patrimoine arboré à l'aide de l'éco-système Smartrees — [[ref. 1](./references/SIG%20esri%202023.png)] [[ref. 2](./references/SIG%20esri%202023%20-%202.pdf)]
+- [🇫🇷][30 min] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d'expérience — [[ref.](./references/SIG%20esri%202023%20-%202.pdf)]
 
 #### Salon SIG esri 2022
 
@@ -98,7 +99,6 @@ _talks about my professional projects and acheivements, mostly related to develo
 #### On geo-communaute.fr
 
 - [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref.](./references/Webinar%202023.png)]
-
 - [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience
 
 ## Misc
