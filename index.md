@@ -57,6 +57,8 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 ### GIS conferences
 
+_talks about my professional projects and acheivements, mostly related to development in Geographical Information Systems_
+
 #### GEODATA DAYS 2025 (upcoming)
 
 - [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref. 1](./references/gdd25.pdf)]
@@ -91,9 +93,21 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 - [🇫🇷][30 min] Le géo-décisionnel au service des métiers à la CA. Toulon Provence Méditerranée — [[ref. 1](./references/SIG%20esri%202017.jpg)]
 - [🇫🇷][30 min] Favorisez la visibilité de vos points d'intérêt auprès de la population avec Cities! — [[ref. 1](./references/SIG%20esri%202017.jpg)]
 
+### Webinar
+
+#### On geo-communaute.fr
+
+- [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref. 1](./references/Webinar%202023.png)]
+
+- [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience
+
 ## Misc
 
-- _[StackOverflow account](https://stackoverflow.com/users/5102373/marc-alx)_
+- _[StackOverflow profile](https://stackoverflow.com/users/5102373/marc-alx)_
+
+- _[StackExchange - Geographical Information Systems profile](https://gis.stackexchange.com/users/57262/marc-alx)_
+
+- _[community.esri.com profile](https://community.esri.com/t5/user/viewprofilepage/user-id/669023)_
 
 - _[My gists](https://gist.github.com/MarcAlx)_
 
