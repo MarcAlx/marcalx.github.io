@@ -61,7 +61,7 @@ _talks about my professional projects and acheivements, mostly related to develo
 
 #### GEODATA DAYS 2025 (upcoming)
 
-- [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref. 1](./references/gdd25.pdf)]
+- [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref.](./references/gdd25.pdf)]
 
 #### Salon SIG esri 2025 (upcoming)
 
@@ -71,18 +71,18 @@ _talks about my professional projects and acheivements, mostly related to develo
 
 #### Salon SIG esri 2024
 
-- [🇫🇷][25 min] Étendre les usages de vos applications avec des widgets personnalisés ArcGIS Experience Builder — [[ref. 1](./references/SIG%20esri%202024.png)]
-- [🇫🇷][25 min] GeoCheval, l'application mobile de randonnée équestre de la Fédération Française d'Équitation — [[ref. 1](./references/SIG%20esri%202024.png)]
-- [🇫🇷][25 min] Extraire et transmettre des données SIG exploitables à l'aide des outils DAO (AutoCAD) grâce à une application ArcGIS Experience Builder. —[[ref. 1](./references/SIG%20esri%202024.png)]
-- [🇫🇷][25 min] Widget ArcGIS Experience Builder d'affichage et téléchargement de documents stockés dans la GED Alfresco pour EGIS — [[ref. 1](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] Étendre les usages de vos applications avec des widgets personnalisés ArcGIS Experience Builder — [[ref.](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] GeoCheval, l'application mobile de randonnée équestre de la Fédération Française d'Équitation — [[ref.](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] Extraire et transmettre des données SIG exploitables à l'aide des outils DAO (AutoCAD) grâce à une application ArcGIS Experience Builder. —[[ref.](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] Widget ArcGIS Experience Builder d'affichage et téléchargement de documents stockés dans la GED Alfresco pour EGIS — [[ref.](./references/SIG%20esri%202024.png)]
 
 #### Salon SIG esri 2023
 
-- [🇫🇷][30 min] Découvrez comment la Métropole du Grand Nancy gère son patrimoine arboré à l'aide de l'éco-système Smartrees — [[ref. 1](./references/SIG%20esri%202023.png)]
+- [🇫🇷][30 min] Découvrez comment la Métropole du Grand Nancy gère son patrimoine arboré à l'aide de l'éco-système Smartrees — [[ref.](./references/SIG%20esri%202023.png)]
 
 #### Salon SIG esri 2022
 
-- [🇫🇷][30 min][online] Balades sur mesure et promotion du patrimoine naturel et culturel. (Re)découvrez « Bougeott », l'application de la Région Île-de-France qui vous donne des fourmis dans les jambes — [[ref. 1](./references/SIG%20esri%202022.png)]
+- [🇫🇷][30 min][online] Balades sur mesure et promotion du patrimoine naturel et culturel. (Re)découvrez « Bougeott », l'application de la Région Île-de-France qui vous donne des fourmis dans les jambes — [[ref.](./references/SIG%20esri%202022.png)]
 
 #### Salon SIG esri 2020
 
@@ -90,14 +90,14 @@ _talks about my professional projects and acheivements, mostly related to develo
 
 #### Salon SIG esri 2017
 
-- [🇫🇷][30 min] Le géo-décisionnel au service des métiers à la CA. Toulon Provence Méditerranée — [[ref. 1](./references/SIG%20esri%202017.jpg)]
-- [🇫🇷][30 min] Favorisez la visibilité de vos points d'intérêt auprès de la population avec Cities! — [[ref. 1](./references/SIG%20esri%202017.jpg)]
+- [🇫🇷][30 min] Le géo-décisionnel au service des métiers à la CA. Toulon Provence Méditerranée — [[ref.](./references/SIG%20esri%202017.jpg)]
+- [🇫🇷][30 min] Favorisez la visibilité de vos points d'intérêt auprès de la population avec Cities! — [[ref.](./references/SIG%20esri%202017.jpg)]
 
 ### Webinar
 
 #### On geo-communaute.fr
 
-- [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref. 1](./references/Webinar%202023.png)]
+- [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref.](./references/Webinar%202023.png)]
 
 - [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience
 
