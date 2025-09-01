@@ -53,7 +53,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 #### SnowCamp 2023
 
-- [🇫🇷][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] — [[ref. 2]()]
+- [🇫🇷][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] — [[ref. 2](./references/SnowCamp%202023.png)]
 
 ### GIS conferences
 
