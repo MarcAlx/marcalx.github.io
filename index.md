@@ -59,15 +59,14 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 _talks about my professional projects and acheivements, mostly related to development in Geographical Information Systems_
 
-#### GEODATA DAYS 2025 (upcoming)
+#### GEODATA DAYS 2025
 
 - [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref.](./references/gdd25.pdf)]
 
 #### Salon SIG esri 2025 (upcoming)
 
 - [🇫🇷][25 min] Simplifier la gestion du Patrimoine arboré avec ArcGIS
-
-- two more talks coming!
+- [🇫🇷][25 min] Décret Tertiaire et Transition énergétique : Le SIG pour faciliter le respect des obligations réglementaires
 
 #### Salon SIG esri 2024
 
