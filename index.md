@@ -63,10 +63,10 @@ _talks about my professional projects and acheivements, mostly related to develo
 
 - [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref.](./references/gdd25.pdf)]
 
-#### Salon SIG esri 2025 (upcoming)
+#### Salon SIG esri 2025
 
-- [🇫🇷][25 min] Simplifier la gestion du Patrimoine arboré avec ArcGIS
-- [🇫🇷][25 min] Décret Tertiaire et Transition énergétique : Le SIG pour faciliter le respect des obligations réglementaires
+- [🇫🇷][25 min] Simplifier la gestion du Patrimoine arboré avec ArcGIS — [[ref.](./references/SIG%20esri%202025.png)]
+- [🇫🇷][25 min] Décret Tertiaire et Transition énergétique : Le SIG pour faciliter le respect des obligations réglementaires — [[ref.](./references/SIG%20esri%202025.png)]
 
 #### Salon SIG esri 2024
 
