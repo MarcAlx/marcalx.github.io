@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Making an ArcGIS Enterprise Geoprocessing that return a file.
+title: Making an ArcGIS Enterprise Geoprocessing that returns a file.
 tags: arcgis geoprocessing python
 author: Marc_Alx
 ---
 
 _published first as an answer on [comunity.esri.com](https://community.esri.com/t5/python-questions/geoprocessing-service-to-return-a-file/m-p/1277808/highlight/true#M67402)_
 
-# Making an ArcGIS Enterprise Geoprocessing that return a file.
+# Making an ArcGIS Enterprise Geoprocessing that returns a file.
 
-Here's a tutorial on how to make an ArcGIS Enterprise python Geoprocessing that return a file.
+Here's a tutorial on how to make an ArcGIS Enterprise python Geoprocessing that returns a file.
 
 ## Important notes
 
