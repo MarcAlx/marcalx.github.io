@@ -61,7 +61,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 ### GIS conferences
 
-_talks about my professional projects and acheivements, mostly related to development in Geographical Information Systems_
+_talks about my professional projects and achievements, mostly related to development in Geographical Information Systems_
 
 #### GEODATA DAYS 2025
 
