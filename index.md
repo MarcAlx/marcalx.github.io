@@ -101,8 +101,8 @@ _talks about my professional projects and acheivements, mostly related to develo
 
 #### On geo-communaute.fr
 
-- [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref.](./references/Webinar%202023.png)]
-- [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience
+- [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref. 1](./references/Webinaire%202024%20-%202.png)] [[ref. 2](./references/Webinaire%202024%20-%203.png)]
+- [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience [[ref.](./references/Webinaire%202024.png)]
 
 ## Misc
 
