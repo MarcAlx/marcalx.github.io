@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Making music with via MIDI with Analogue Pocket + mGB
+title: Making music via MIDI with Analogue Pocket + mGB
 tags: retro gaming audio chiptune mgb analogue
 author: Marc_Alx
 ---
 
 _published first on [reddit.com](https://www.reddit.com/r/AnaloguePocket/comments/18eks6y/tutorial_analogue_pocket_mgb_midi/)_
 
-# Making music with via MIDI with Analogue Pocket + mGB
+# Making music via MIDI with Analogue Pocket + mGB
 
 Here's a small tutorial on how to make music on Analogue Pocket using a midi controller.
 
