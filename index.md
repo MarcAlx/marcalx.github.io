@@ -53,11 +53,11 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 #### SnowCamp 2026
 
-- [🇫🇷][45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [slides here](https://github.com/MarcAlx/talk-emudev-gameboy) I [(pdf direct download)](https://github.com/MarcAlx/talk-emudev-gameboy/blob/master/slides/snowcamp-2026/destination-gameboy.pdf) — [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
+- [🇫🇷][45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [slides here](https://github.com/MarcAlx/talk-emudev-gameboy) ┇ [(pdf direct download)](https://github.com/MarcAlx/talk-emudev-gameboy/blob/master/slides/snowcamp-2026/destination-gameboy.pdf) — [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
 
 #### SnowCamp 2023
 
-- [🇫🇷][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) I [(pdf direct download)](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto/blob/main/slides/Introduction%20à%20la%20carto.pdf) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] [[ref. 2](./references/SnowCamp%202023.png)]
+- [🇫🇷][45 min] **Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?** (_Once upon a time… mapping 🗺️ How and why should you add a map to your applications?_) — [slides here](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto) ┇ [(pdf direct download)](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto/blob/main/slides/Introduction%20à%20la%20carto.pdf) — [[ref. 1](https://snowcamp2023.sched.com/event/1EOul/il-etait-une-fois-la-cartographie-nulb-comment-et-pourquoi-ajouter-une-carte-a-vos-applications)] [[ref. 2](./references/SnowCamp%202023.png)]
 
 ### GIS conferences
 
