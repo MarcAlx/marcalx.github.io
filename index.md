@@ -22,9 +22,9 @@ _Be sure to check my [github profile](https://github.com/MarcAlx)._
 
 _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/User/4096469/Marc_Alx)._
 
-- **iPod 4th generation or Photo hard drive replacement by micro SD card** / Changer le disque dur par une carte micro SD sur un iPod 4e génération ou Photo [[🇫🇷](https://fr.ifixit.com/Tutoriel/Changer+le+disque+dur+par+une+carte+micro+SD+sur+un+iPod+4e+génération+ou+Photo/148097)] [[🇺🇸](https://www.ifixit.com/Guide/iPod+4th+generation+or+Photo+hard+drive+replacement+by+micro+SD+card/148097)] [[pdf 🇫🇷](./contents/guide_148097_fr.pdf)] [[pdf 🇺🇸](./contents/guide_148097_en.pdf)]
+- **iPod 4th generation or Photo hard drive replacement by micro SD card** / Changer le disque dur par une carte micro SD sur un iPod 4e génération ou Photo — [[🇫🇷](https://fr.ifixit.com/Tutoriel/Changer+le+disque+dur+par+une+carte+micro+SD+sur+un+iPod+4e+génération+ou+Photo/148097)] [[🇺🇸](https://www.ifixit.com/Guide/iPod+4th+generation+or+Photo+hard+drive+replacement+by+micro+SD+card/148097)] [[pdf 🇫🇷](./contents/guide_148097_fr.pdf)] [[pdf 🇺🇸](./contents/guide_148097_en.pdf)]
 
-- **Installation of the 8BitDo Mod Kit for Original N64 Controller** / Installation du Mod Kit 8BitDo pour manette N64 [[🇫🇷](https://fr.ifixit.com/Tutoriel/Installation+du+Mod+Kit+8BitDo+pour+manette+N64/183460)] [[🇺🇸](https://www.ifixit.com/Guide/Installation+of+the+8BitDo+Mod+Kit+for+Original+N64+Controller/183460)] [[pdf 🇫🇷](./contents/guide_183460_fr.pdf)] [[pdf 🇺🇸](./contents/guide_183460_en.pdf)]
+- **Installation of the 8BitDo Mod Kit for Original N64 Controller** / Installation du Mod Kit 8BitDo pour manette N64 — [[🇫🇷](https://fr.ifixit.com/Tutoriel/Installation+du+Mod+Kit+8BitDo+pour+manette+N64/183460)] [[🇺🇸](https://www.ifixit.com/Guide/Installation+of+the+8BitDo+Mod+Kit+for+Original+N64+Controller/183460)] [[pdf 🇫🇷](./contents/guide_183460_fr.pdf)] [[pdf 🇺🇸](./contents/guide_183460_en.pdf)]
 
 
 ## Projects
@@ -102,7 +102,7 @@ _talks about my professional projects and achievements, mostly related to develo
 #### On geo-communaute.fr
 
 - [🇫🇷][45 min][2024/11/26] Étendez vos usages autour d'ArcGIS Experience Builder avec des développements personnalisés — [[ref. 1](./references/Webinaire%202024%20-%202.png)] [[ref. 2](./references/Webinaire%202024%20-%203.png)]
-- [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience [[ref.](./references/Webinaire%202024.png)]
+- [🇫🇷][45 min][2024/02/08] Développer des widgets personnalisés avec ArcGIS Experience Builder : retour d’expérience — [[ref.](./references/Webinaire%202024.png)]
 
 ## Misc
 
