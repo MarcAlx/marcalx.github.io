@@ -76,7 +76,7 @@ _talks about my professional projects and achievements, mostly related to develo
 
 - [🇫🇷][25 min] Étendre les usages de vos applications avec des widgets personnalisés ArcGIS Experience Builder — [[ref.](./references/SIG%20esri%202024.png)]
 - [🇫🇷][25 min] GeoCheval, l'application mobile de randonnée équestre de la Fédération Française d'Équitation — [[ref.](./references/SIG%20esri%202024.png)]
-- [🇫🇷][25 min] Extraire et transmettre des données SIG exploitables à l'aide des outils DAO (AutoCAD) grâce à une application ArcGIS Experience Builder. —[[ref.](./references/SIG%20esri%202024.png)]
+- [🇫🇷][25 min] Extraire et transmettre des données SIG exploitables à l'aide des outils DAO (AutoCAD) grâce à une application ArcGIS Experience Builder — [[ref.](./references/SIG%20esri%202024.png)]
 - [🇫🇷][25 min] Widget ArcGIS Experience Builder d'affichage et téléchargement de documents stockés dans la GED Alfresco pour EGIS — [[ref.](./references/SIG%20esri%202024.png)]
 
 #### Salon SIG esri 2023
