@@ -8,6 +8,10 @@ _What drives me every day: understanding the world and how it works, solving pro
 
 _Be sure to check my [github profile](https://github.com/MarcAlx)._
 
+#### Contact
+
+✉️ `marcalx [dot] contact [at] icloud [dot] com`
+
 ## Articles
 
 <ul>
