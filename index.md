@@ -57,7 +57,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 #### SnowCamp 2026
 
-- [🇫🇷][45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [slides here](https://github.com/MarcAlx/talk-emudev-gameboy) ┇ [(pdf direct download)](https://github.com/MarcAlx/talk-emudev-gameboy/blob/master/slides/snowcamp-2026/destination-gameboy.pdf) — [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
+- [🇫🇷][45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — ([3.67 / 4⭐️](./references/feedback-snowcamp2026-summary.png)) — [slides here](https://github.com/MarcAlx/talk-emudev-gameboy) ┇ [(pdf direct download)](https://github.com/MarcAlx/talk-emudev-gameboy/blob/master/slides/snowcamp-2026/destination-gameboy.pdf) — [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
 
 #### SnowCamp 2023
 
