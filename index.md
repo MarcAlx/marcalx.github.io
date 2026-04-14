@@ -57,7 +57,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 #### MiXiT 2026
 
-- [🇫🇷][45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [replay **coming soon**] — [slides **coming soon**]— [[ref. 1](https://mixitconf.org/en/2026/voyage-au-coeur-de-l-emulation-destination-game-boy)] [[ref. 2](./references/MiXiT%202026.png)]
+- [🇫🇷][45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [replay **coming soon**] — [slides here](https://github.com/MarcAlx/talk-emudev-gameboy) ┇ [(pdf direct download)](https://github.com/MarcAlx/talk-emudev-gameboy/blob/master/slides/mixit-2026/destination-gameboy.pdf) — [[ref. 1](https://mixitconf.org/en/2026/voyage-au-coeur-de-l-emulation-destination-game-boy)] [[ref. 2](./references/MiXiT%202026.png)]
 
 #### SnowCamp 2026
 
