@@ -47,9 +47,22 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
 _You can find all my published games on [my itch.io page](https://marc-alx.itch.io)._
 
-- [play.date] [planitis](https://marc-alx.itch.io/planitis)
+- 🪐 [planitis](https://marc-alx.itch.io/planitis)
 
-- [play.date] [Macrodata Refinement terminal](https://marc-alx.itch.io/macrodata-refinement-terminal-playdate)
+  _Scoring mini game, based on planet orbit manipulation_
+
+  **Platform:** [play.date](https://play.date)  
+  **Download:** [itch.io](https://marc-alx.itch.io/planitis)   
+  **Tech:** lua
+
+
+- 🖥️ [Macrodata Refinement terminal](https://marc-alx.itch.io/macrodata-refinement-terminal-playdate)
+
+  _Re interpretation of [Severance](https://tv.apple.com/fr/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx) Macrodata Refinement terminal_
+
+  **Platform:** [play.date](https://play.date)  
+  **Download:** [itch.io]  (macrodata-refinement-terminal-playdate)   
+  **Tech:** lua
 
 ## Talks
 
