@@ -1,8 +1,8 @@
-Hi I'm Marc_Alx — a software engineer (mobile/desktop/web/games: C#, JS, Swift) passionate about retro tech, music and open source. Here you'll find my projects, tutorial and conference talks.
+Hi I'm Marc_Alx — a software engineer (mobile/desktop/web/games: C#, JS/TS, Swift, Java, Python) passionate about retro tech, music and open source. Here you'll find my projects, tutorial and conference talks.
 
 ### Who am I?
 
-_Curious, creative, and versatile, my role as a Software Development Engineer in a small company doesn't help: in the morning I’m a tech lead, in the afternoon a developer, and the next day a project manager…_
+_Curious, creative, and versatile, my role as a Software Development Engineer in a [small company](https://smart-origin.com) doesn't help: in the morning I’m a tech lead, in the afternoon a developer, and the next day a project manager…_
 
 _What drives me every day: understanding the world and how it works, solving problems, and sharing knowledge!_
 
