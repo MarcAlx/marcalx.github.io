@@ -33,15 +33,108 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
 ## Projects
 
-- [GBKit](https://github.com/MarcAlx/GBKit) _Swift package that provides emulation back-end to make your own Game Boy emulator._
+### Personal
 
-- [GB](https://github.com/MarcAlx/gb) _A Swift/SwiftUI Game Boy emulator_
+- **[GBKit](https://github.com/MarcAlx/GBKit)**
 
-- [Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator) _Simple app to ease custom location sending to xcode Simulator._
+   _Swift package that provides emulation back-end to make your own Game Boy emulator._ 
 
-- [swift-event](https://github.com/MarcAlx/swift-event) _Classes to ease observer pattern implementation in Swift inspired by C# events_
+  **Tech:** Swift  
+  **Links:** [[github](https://github.com/MarcAlx/GBKit)] 
 
-- [smart-filter](https://github.com/MarcAlx/smart-filter) _A js module that allows smart filtering over js array using SQL-Like where clause._
+- **[GB](https://github.com/MarcAlx/gb)**
+
+   _A Swift/SwiftUI Game Boy emulator._ 
+    
+  **Tech:** Swift  
+  **Links:** [[github](https://github.com/MarcAlx/gb)]
+
+- **[Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator)**
+
+   _Simple macOS app to ease custom location sending to xcode Simulator._ 
+    
+  **Tech:** Swift  
+  **Platform:** macOS  
+  **Links:** [[download](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator/releases)] [[github](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator)]
+
+- **[swift-event](https://github.com/MarcAlx/swift-event)**
+
+   _Swift classes to ease observer pattern implementation in Swift inspired by C# events._ 
+    
+  **Tech:** Swift
+  **Links:** [[package](https://swiftpackageindex.com/MarcAlx/swift-event)] [[github](https://github.com/MarcAlx/swift-event)]
+
+- **[smart-filter](https://github.com/MarcAlx/smart-filter)**
+
+   _A js module that allows smart filtering over js array using SQL-Like where clause._ 
+    
+  **Tech:** JS
+  **Links:** [[package](https://www.npmjs.com/package/@smartorigin/smart-filter)] [[github](https://github.com/MarcAlx/smart-filter)]
+
+### Professional references
+
+- 🏃 **bougeott** — **[Région Île de France](https://www.iledefrance.fr)**
+
+  _Paris cultural and walking application / 🇫🇷 Application de balade et de découverte du territoire francilien_
+
+  **Role:** Mobile Tech Lead (solo mobile developer)  
+  **Tech:** .NET MAUI, Xamarin  
+  **Download:** [[Android](https://play.google.com/store/apps/details?id=fr.ildefrance.bougeott)] ┇ [[iOS](https://apps.apple.com/fr/app/bougeott/id1517390611)]  
+  **Links:** [[promo video](https://www.youtube.com/watch?v=YdPA_4R3KJQ)]┇ [[🇫🇷 presentation article](https://smart-origin.com/2020/10/13/bougeott-appli-mobile-balade-decouverte-territoire-sport-culture/)] ┇ [[ref. 1](./references/bougeott-ios.jpg)] ┇ [[ref. 2](./references/bougeott-android.png)] ┇ [[ref. 3](./references/bougeott-article.png)]
+  
+- 🐴 **GeoCheval** — **[Fédération Française d'équitation](https://www.ffe.com)**
+
+  _Horse riding trail application / 🇫🇷 Application pour la pratique de balade équestre_
+  
+  **Role:** Mobile Tech Lead (solo mobile developer)  
+  **Tech:** .NET MAUI  
+  **Download:** [[Android](https://play.google.com/store/apps/details?id=com.ffe.geocheval)] ┇ [[iOS](https://apps.apple.com/fr/app/geocheval/id6502771834)]  
+  **Links:** [[promo video](https://www.youtube.com/watch?v=YdPA_4R3KJQ)] ┇ [[🇫🇷 app presentation](https://www.youtube.com/watch?v=58uPDwMILo8)] ┇ [[website](https://geocheval.com/application-mobile/)] ┇ [[🇫🇷 presentation article](https://smart-origin.com/2024/11/29/une-nouvelle-experience-pour-les-cavaliers-geocheval-lapplication-de-randonnee-equestre-de-la-ffe/)] ┇ [[ref. 1](./references/geocheval-ios.jpg)] ┇ [[ref. 2](./references/geocheval-android.png)] ┇ [[ref. 3](./references/geocheval-article.png)]
+
+- 🏙️ **Val d'Europe 3D** — **[Val d'Europe agglomération](https://www.valdeuropeagglo.fr)**
+
+  _3D digital twin visualization application / 🇫🇷 Application de visualisation d'un jumeau numérique 3D_
+  
+  **Role:** Tech Lead (solo developer)
+  **Tech:** .NET MAUI  
+  **Download:** _not available_  
+  **Links:** [[🇫🇷 app presentation](https://www.youtube.com/watch?v=HRuA0SUPXZw)] ┇ [[🇫🇷 presentation article](https://smart-origin.com/2024/04/08/modelisation-3d-du-territoire-de-val-deurope/)] ┇  [[demo video](https://www.youtube.com/watch?v=tgqbJy392G4)] ┇ [[ref. 1](./references/vea-article.jpg)]
+
+- ⚙️ **AxMart v3** — **[Valpes](https://www.valpes.fr)**
+
+  _Bluetooth actuator control app / 🇫🇷 Application de contrôle d'actionneurs bluetooth_
+
+  **Role:** Mobile Tech Lead (solo mobile developer)  
+  **Download:** [Android](https://play.google.com/store/apps/details?id=fr.valpes.axmart) ┇ [iOS](https://apps.apple.com/us/app/axmart-v3/id1491176001)  
+  **Links:** [[website](https://www.valpes.fr/produits-actionneurs-electriques/bluetooth/)] ┇ [[ref. 1](./references/axmart-ios.jpg)] ┇ [[ref. 2](./references/axmart-android.png)]
+
+- 🇲🇨 **Urban Report**  — **[Gouvernement Princier de Monaco](https://www.gouv.mc)**
+
+   _Citizen reporting application / 🇫🇷 Application de remontée citoyenne_
+
+  **Role:** Mobile Tech Lead (solo mobile developer)   
+  **Tech:** Xamarin  
+  **Download:** _discontinued_  
+  **Links:** [[🇫🇷 presentation article](https://smart-origin.com/2020/10/12/urban-report-application-remontees-citoyennes-monaco/)] ┇ [[ref. 1](./references/urban-report-article.png)]
+
+- 📐 **Export CAD** — **[Saint-Quentin-en-Yvelines agglomération](https://saint-quentin-en-yvelines.fr)**
+
+  _GIS export to CAD web application / 🇫🇷 Application cartographique d’extraction de données SIG au format DWG, DXF ou SHP_
+  
+  **Role:** Tech Lead / Project lead  
+  **Tech:** Python, React  
+  **Download:** _not available_  
+  **Links:** [[🇫🇷 presentation article](https://smart-origin.com/2024/04/05/application-cartographique-dextraction-de-donnees-sig-format-dwg-dxf-shp/)] ┇ [[demo video](https://www.youtube.com/watch?v=ZGcmHxsn1sE)] ┇ [[ref. 1](./references/sqy-article.png)]
+
+- 📄 **ArcGIS / Alfresco widget** — **[egis](https://www.egis-group.com/fr)**
+
+  _GIS to Alfresco ArcGIS Experience builder widget / 🇫🇷 Widget pour l'association de documentaire Alfresco à ArcGIS_
+  
+  **Role:** Tech Lead / Project lead  
+  **Tech:** React, ArcGIS Experience Builder  
+  **Download:** _not available_  
+  **Links:** [[🇫🇷 presentation article](https://smart-origin.com/2025/01/10/associer-alfresco-et-arcgis-experience-builder-grace-a-un-widget-personnalise/)] ┇ [[ref. 1](./references/egis-article.png)]
+
 
 ## Published games
 
