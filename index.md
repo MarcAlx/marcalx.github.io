@@ -99,12 +99,12 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
   **Download:** _not available_  
   **Links:** [[🇫🇷 app presentation](https://www.youtube.com/watch?v=HRuA0SUPXZw)] ┇ [[🇫🇷 presentation article](https://smart-origin.com/2024/04/08/modelisation-3d-du-territoire-de-val-deurope/)] ┇  [[demo video](https://www.youtube.com/watch?v=tgqbJy392G4)] ┇ [[ref. 1](./references/vea-article.jpg)]
 
-- ⚙️ **AxMart v3** — [Valpes](https://www.valpes.fr)
+- ⚙️ **AXMART** — [Valpes](https://www.valpes.fr)
 
   _Bluetooth actuator control app / 🇫🇷 Application de contrôle d'actionneurs bluetooth_
 
   **Role:** Mobile Tech Lead (solo mobile developer)  
-  **Download:** [Android](https://play.google.com/store/apps/details?id=fr.valpes.axmart) ┇ [iOS](https://apps.apple.com/us/app/axmart-v3/id1491176001)  
+  **Download:** [[Android](https://play.google.com/store/apps/details?id=fr.valpes.axmart)] ┇ [[iOS](https://apps.apple.com/us/app/axmart-v3/id1491176001)]  
   **Links:** [[website](https://www.valpes.fr/produits-actionneurs-electriques/bluetooth/)] ┇ [[ref. 1](./references/axmart-ios.jpg)] ┇ [[ref. 2](./references/axmart-android.png)]
 
 - 🇲🇨 **Urban Report**  — [Gouvernement Princier de Monaco](https://www.gouv.mc)
