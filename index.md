@@ -80,7 +80,7 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
   **Role:** Mobile Tech Lead (solo mobile developer)  
   **Tech:** .NET MAUI, Xamarin  
   **Download:** [[Android](https://play.google.com/store/apps/details?id=fr.ildefrance.bougeott)] ┇ [[iOS](https://apps.apple.com/fr/app/bougeott/id1517390611)]  
-  **Links:** [[promo video](https://www.youtube.com/watch?v=YdPA_4R3KJQ)]┇ [[🇫🇷 presentation article](https://smart-origin.com/2020/10/13/bougeott-appli-mobile-balade-decouverte-territoire-sport-culture/)] ┇ [[ref. 1](./references/bougeott-ios.jpg)] ┇ [[ref. 2](./references/bougeott-android.png)] ┇ [[ref. 3](./references/bougeott-article.png)]
+  **Links:** [[promo video](https://www.youtube.com/watch?v=YdPA_4R3KJQ)] ┇ [[🇫🇷 presentation article](https://smart-origin.com/2020/10/13/bougeott-appli-mobile-balade-decouverte-territoire-sport-culture/)] ┇ [[ref. 1](./references/bougeott-ios.jpg)] ┇ [[ref. 2](./references/bougeott-android.png)] ┇ [[ref. 3](./references/bougeott-article.png)]
   
 - 🐴 **GeoCheval** — [Fédération Française d'équitation](https://www.ffe.com)
 
