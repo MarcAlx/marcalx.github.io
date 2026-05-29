@@ -64,7 +64,7 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
   **Tech:** Swift
   **Links:** [[package](https://swiftpackageindex.com/MarcAlx/swift-event)] [[github](https://github.com/MarcAlx/swift-event)]
 
--  🎚️ [smart-filter](https://github.com/MarcAlx/smart-filter)
+- 🎚️ [smart-filter](https://github.com/MarcAlx/smart-filter)
 
    _A js module that allows smart filtering over js array using SQL-Like where clause._ 
     
@@ -95,8 +95,8 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
   _3D digital twin visualization application / 🇫🇷 Application de visualisation d'un jumeau numérique 3D_
   
-  **Role:** Tech Lead (solo developer)
-  **Download:** _not available_  
+  **Role:** Tech Lead (solo developer)  
+  **Download:** _not available_ 
   **Links:** [[🇫🇷 app presentation](https://www.youtube.com/watch?v=HRuA0SUPXZw)] ┇ [[🇫🇷 presentation article](https://smart-origin.com/2024/04/08/modelisation-3d-du-territoire-de-val-deurope/)] ┇  [[demo video](https://www.youtube.com/watch?v=tgqbJy392G4)] ┇ [[ref. 1](./references/vea-article.jpg)]
 
 - ⚙️ **AXMART** — [Valpes](https://www.valpes.fr)
@@ -111,7 +111,7 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
    _Citizen reporting application / 🇫🇷 Application de remontée citoyenne_
 
-  **Role:** Mobile Tech Lead (solo mobile developer) 
+  **Role:** Mobile Tech Lead (solo mobile developer)  
   **Download:** _discontinued_  
   **Links:** [[🇫🇷 presentation article](https://smart-origin.com/2020/10/12/urban-report-application-remontees-citoyennes-monaco/)] ┇ [[ref. 1](./references/urban-report-article.png)]
 
@@ -120,7 +120,7 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
   _GIS export to CAD web application / 🇫🇷 Application cartographique d’extraction de données SIG au format DWG, DXF ou SHP_
   
   **Role:** Tech Lead / Project lead  
-  **Tech:** Python, React, ArcGIS Experience Builder
+  **Tech:** Python, React, ArcGIS Experience Builder  
   **Download:** _not available_  
   **Links:** [[🇫🇷 presentation article](https://smart-origin.com/2024/04/05/application-cartographique-dextraction-de-donnees-sig-format-dwg-dxf-shp/)] ┇ [[demo video](https://www.youtube.com/watch?v=ZGcmHxsn1sE)] ┇ [[ref. 1](./references/sqy-article.png)]
 
