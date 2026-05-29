@@ -35,21 +35,21 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
 
 ### Personal
 
-- [GBKit](https://github.com/MarcAlx/GBKit)
+- 👾 [GBKit](https://github.com/MarcAlx/GBKit)
 
    _Swift package that provides emulation back-end to make your own Game Boy emulator._ 
 
   **Tech:** Swift  
   **Links:** [[github](https://github.com/MarcAlx/GBKit)] 
 
-- [GB](https://github.com/MarcAlx/gb)
+- 🎮 [GB](https://github.com/MarcAlx/gb)
 
    _A Swift/SwiftUI Game Boy emulator._ 
     
   **Tech:** Swift  
   **Links:** [[github](https://github.com/MarcAlx/gb)]
 
-- [Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator)
+- 📍 [Location sender for xcode simulator](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator)
 
    _Simple macOS app to ease custom location sending to xcode Simulator._ 
     
@@ -57,14 +57,14 @@ _You can find all my tutorials on [my ifixit.com page](https://www.ifixit.com/Us
   **Platform:** macOS  
   **Links:** [[download](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator/releases)] [[github](https://github.com/MarcAlx/Location-Sender-for-Xcode-Simulator)]
 
-- [swift-event](https://github.com/MarcAlx/swift-event)
+- ⚡️ [swift-event](https://github.com/MarcAlx/swift-event)
 
    _Swift classes to ease observer pattern implementation in Swift inspired by C# events._ 
     
   **Tech:** Swift
   **Links:** [[package](https://swiftpackageindex.com/MarcAlx/swift-event)] [[github](https://github.com/MarcAlx/swift-event)]
 
-- [smart-filter](https://github.com/MarcAlx/smart-filter)
+-  🎚️ [smart-filter](https://github.com/MarcAlx/smart-filter)
 
    _A js module that allows smart filtering over js array using SQL-Like where clause._ 
     
@@ -152,7 +152,7 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
   _Re interpretation of [Severance](https://tv.apple.com/fr/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx) Macrodata Refinement terminal_
 
   **Platform:** [play.date](https://play.date)  
-  **Download:** [itch.io]  (macrodata-refinement-terminal-playdate)   
+  **Download:** [itch.io](macrodata-refinement-terminal-playdate)   
   **Tech:** lua
 
 ## Talks
