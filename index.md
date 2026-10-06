@@ -175,6 +175,10 @@ _You can find all my published games on [my itch.io page](https://marc-alx.itch.
 
 _talks about my professional projects and achievements, mostly related to development in Geographical Information Systems_
 
+#### Salon SIG esri 2026
+
+- [🇫🇷][25 min] Optimiser la gestion du patrimoine arboré avec les outils de la suite ArcGIS — [[ref.](./references/SIG%20esri%202026.png)]
+
 #### GEODATA DAYS 2025
 
 - [🇫🇷][10 min] Application de gestion du patrimoine arboré : bonnes pratiques et retours d'expérience — [[ref.](./references/gdd25.pdf)]
